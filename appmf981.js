@@ -14,7 +14,7 @@ let categoriaActual = '';
 async function iniciarJuego(categoria) {
     categoriaActual = categoria;
     
-    // Genera el nombre del archivo de forma automática (Ej: 'mf0981_1.json')
+    // Genera el nombre del archivo de forma automática (Ej: 'MF981_1.json')
     const archivoALeer = `${categoria}.json`;
 
     try {
