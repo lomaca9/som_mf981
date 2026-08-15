@@ -188,3 +188,12 @@ h2 {
     border-top: 1px solid #eee;
     padding-top: 10px;
 }
+/* Selecciona cualquier botón que tenga el atributo "disabled" */
+
+.btn-modulo:disabled {
+    background-color: #cccccc !important; /* Color gris de fondo */
+    color: #666666 !important;            /* Color gris oscuro para el texto */
+    border-color: #bbbbbb !important;     /* Borde gris suave */
+    cursor: not-allowed;                  /* Cambia el cursor a un símbolo de prohibido */
+    opacity: 0.6;                         /* Le da un aspecto semi-transparente de apagado */
+}
