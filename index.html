@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ADG308_2 Activitats de gestió administrativa</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+
+    <div class="contenedor-juego">
+        <header>
+            <h1>MF0981_2: Realitzar registres comptables</h1>
+            <p class="subtitulo">UF0515: Pla general de comptabilitat</p>
+        </header>
+
+        <!-- Selector de Módulo -->
+        <section id="pantalla-inicio" class="tarjeta-modulo">
+            <h2>Selecciona el bloc de pràctica:</h2>
+            <div class="grupo-botones-inicio">
+
+                <!-- Botón Deshabilitado provisionalmente -->
+                <button class="btn-modulo" disabled>En preparació: MF0980_2: Gestió auxiliar de personal</button>
+
+                <!-- BOTÓN 1: Lee de 'mf0981_1.json' -->
+                <button class="btn-modulo" onclick="iniciarJuego('mf0981_1')">1.Interpretació de la documentació i de la normativa mercantil i comptable</button>
+                 
+                
+		<!-- BOTÓN 2: Lee de 'mf0981_2.json' -->
+       		 <button class="btn-modulo" onclick="iniciarJuego('mf0980_2')">2.El patrimoni de l'empresa</button>
+
+		<!-- BOTÓN 3: Lee de 'mf0981_3.json' -->
+                <button class="btn-modulo" onclick="iniciarJuego('mf0981_3')">3.Registres comptables de l'activitat empresarial</button>
+
+		<!-- BOTÓN 4: Lee de 'mf0981_4.json' -->
+                <button class="btn-modulo" onclick="iniciarJuego('mf0981_4')">4.Comptabilitat de l'IVA en els llibres auxiliars</button>
+
+
+
+            </div>
+        </section>
+
+        <!-- Interfaz del Test -->
+        <section id="pantalla-test" class="oculto">
+            <div class="barra-progreso">
+                <span id="info-progreso">Pregunta 1 de X</span>
+                <div class="progreso-total"><div id="linea-progreso"></div></div>
+            </div>
+       	
+            <!-- Marcador en tiempo real para el alumno -->
+            <div class="marcador-vivo">
+                <span class="aciertos-vivo">✅ Correctes: <span id="vivo-aciertos">0</span></span>
+                <span class="errores-vivo">❌ Incorrectes: <span id="vivo-errores">0</span></span>
+            </div>
+
+            <div class="tarjeta-pregunta">
+                <p id="texto-pregunta" class="texto-pregunta">Aquí irá la pregunta...</p>
+                <div id="contenedor-opciones" class="contenedor-opciones">
+                    <!-- Los botones de opciones se generarán dinámicamente -->
+                </div>
+            </div>
+
+            <div class="controles-navegacion">
+                <button id="btn-siguiente" class="btn-accion oculto" onclick="siguientePregunta()">Següent Pregunta</button>
+            </div>
+        </section>
+
+        <!-- Pantalla de Resultados -->
+        <section id="pantalla-resultados" class="oculto">
+            <div class="tarjeta-resultados">
+                <h2>Exercici Finalitzat</h2>
+                <div class="marcador">
+                    <p>Encerts: <span id="aciertos">0</span></p>
+                    <p>Errors: <span id="errores">0</span></p>
+                    <p class="nota-final">Resultat: <span id="nota-num">0</span> / 10</p>
+                </div>
+                <button class="btn-reiniciar" onclick="volverAlInicio()">Segueix practicant</button>
+            </div>
+        </section>
+    </div>
+
+    <script src="appcontable.js"></script>
+</body>
+</html>

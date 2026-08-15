@@ -1,0 +1,507 @@
+{
+  "mf0981_1": [
+    {
+      "tema": "1.1 Documents justificants mercantils",
+      "pregunta": "Quin dels següents documents mercantils justifica legalment l'entrega d'una mercaderia al comprador per part del transportista?",
+      "opciones": [
+        "L'albarà o nota de lliurament.",
+        "La factura proforma.",
+        "La comanda de compra."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "1.1 Documents justificants mercantils",
+      "pregunta": "Quina és la funció principal d'una factura rectificativa en el tràfic mercantil?",
+      "opciones": [
+        "Sol·licitar un pressupost formal a un proveïdor de serveis.",
+        "Corregir una factura anterior que contenia errors en els imports o en el càlcul de l'IVA.",
+        "Justificar el pagament en efectiu d'una operació menor a la caixa de l'empresa."
+      ],
+      "correcta": 1
+    },
+    {
+      "tema": "1.1 Documents justificants mercantils",
+      "pregunta": "En una factura simplificada (antic tiquet), quina de les següents dades NO és de declaració obligatòria per al venedor?",
+      "opciones": [
+        "El número de sèrie de la factura.",
+        "El tipus impositiu de l'IVA aplicat.",
+        "El nom, cognoms i domicili fiscal complet del comprador."
+      ],
+      "correcta": 2
+    },
+    {
+      "tema": "1.1 Documents justificants mercantils",
+      "pregunta": "Què representa legalment una lletra de canvi en les relacions comercials?",
+      "opciones": [
+        "Un contracte d'arrendament financer a llarg termini.",
+        "Un títol valor que conté una ordre incondicional de pagament a una data de venciment determinada.",
+        "Un rebut justificatiu d'haver entregat mercaderies en dipòsit."
+      ],
+      "correcta": 1
+    },
+    {
+      "tema": "1.2 Organització i arxivament",
+      "pregunta": "Segons l'article 30 del Codi de Comerç, quin és el termini obligatori que té un empresari per conservar els llibres, correspondència, documentació i justificants de l'empresa?",
+      "opciones": [
+        "6 anys, a partir de l'últim assentament realitzat als llibres.",
+        "4 anys, coincidint estrictament amb el termini de prescripció de la llei de l'IVA.",
+        "10 anys, segons la normativa general de l'Impost sobre Societats."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "1.2 Organització i arxivament",
+      "pregunta": "Si organitzem les factures de proveïdors utilitzant el número de document assignat correlativament a mesura que es reben, quin criteri d'arxivament estem aplicant?",
+      "opciones": [
+        "Criteri alfabètic.",
+        "Criteri numèric o cronològic de recepció.",
+        "Criteri geogràfic."
+      ],
+      "correcta": 1
+    },
+    {
+      "tema": "1.2 Organització i arxivament",
+      "pregunta": "Dins de la gestió d'arxiu d'una oficina comptable, quina és la finalitat principal d'un arxiu de gestió o actiu?",
+      "opciones": [
+        "Guardar documents històrics de fa més de 20 anys.",
+        "Custodiar documents en consulta freqüent que corresponen a l'exercici corrent o operacions vives.",
+        "Emmagatzemar documentació ja tancada que només es conserva per obligació legal."
+      ],
+      "correcta": 1
+    },
+    {
+      "tema": "1.3 Llibres comptables obligatoris i auxiliars",
+      "pregunta": "Segons la normativa mercantil espanyola, quins són els llibres comptables estrictament obligatoris per a qualsevol empresari?",
+      "opciones": [
+        "El Llibre Diari i el Llibre d'Inventaris i Comptes Anuals.",
+        "El Llibre Major i el Llibre de Caixa Auxiliar.",
+        "El Llibre de Factures Emeses i el Llibre de Bàncs."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "1.3 Llibres comptables obligatoris i auxiliars",
+      "pregunta": "On s'han de legalitzar obligatòriament els llibres comptables oficials d'una empresa i en quin termini?",
+      "opciones": [
+        "A l'Agència Tributària, abans de començar l'any natural.",
+        "Al Registre Mercantil, dins dels quatre mesos següents al tancament de l'exercici.",
+        "Davant de Notari públic, en el moment de la constitució de la societat."
+      ],
+      "correcta": 1
+    },
+    {
+      "tema": "1.3 Llibres comptables obligatoris i auxiliars",
+      "pregunta": "Quina és la funció d'un llibre comptable auxiliar, com ara el Llibre de Caixa o el Llibre de Clients?",
+      "opciones": [
+        "Substituir legalment el Llibre Diari si aquest es perd o es fa malbé.",
+        "Ampliar i detallar la informació agregada dels llibres obligatoris per a control intern.",
+        "Presentar-se de forma anual davant el Registre Mercantil per al càlcul d'impostos."
+      ],
+      "correcta": 1
+    },
+    {
+      "tema": "1.3 Llibres comptables obligatoris i auxiliars",
+      "pregunta": "Quin document recull la situació inicial de l'empresa, els balanços de comprovació trimestrals i l'inventari de tancament dins del Llibre d'Inventaris i Comptes Anuals?",
+      "opciones": [
+        "L'assentament d'obertura del Llibre Diari.",
+        "La memòria abreujada d'accionistes.",
+        "El mateix cos del Llibre d'Inventaris segons l'estructura de béns, drets i obligacions."
+      ],
+      "correcta": 2
+    },
+    {
+      "tema": "1.4 L'empresa: classes d'empreses",
+      "pregunta": "Com es classifica una empresa tenint en compte el criteri de la titularitat del seu capital si aquest pertany exclusivament a particulars?",
+      "opciones": [
+        "Empresa Privada.",
+        "Empresa Pública.",
+        "Empresa Mixta."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "1.4 L'empresa: classes d'empreses",
+      "pregunta": "Quina és la característica principal pel que fa a la responsabilitat dels socis en una Societat Limitada (S.L.)?",
+      "opciones": [
+        "Els socis responen de forma il·limitada i solidària amb tot el seu patrimoni personal.",
+        "La responsabilitat està limitada al capital aportat a la societat; els socis no responen amb el seu patrimoni personal.",
+        "No existeix cap tipus de responsabilitat jurídica davant de tercers o creditors."
+      ],
+      "correcta": 1
+    },
+    {
+      "tema": "1.4 L'empresa: classes d'empreses",
+      "pregunta": "Segons l'activitat econòmica o sector d'activitat, una empresa que es dedica a la fabricació de mobles a partir de fusta pertany al:",
+      "opciones": [
+        "Sector primari.",
+        "Sector secundari o industrial.",
+        "Sector terciari o de serveis."
+      ],
+      "correcta": 1
+    },
+    {
+      "tema": "1.4 L'empresa: classes d'empreses",
+      "pregunta": "Quina forma jurídica es caracteritza per no tenir personalitat jurídica pròpia diferenciada de la dels seus membres, responent aquests de forma il·limitada?",
+      "opciones": [
+        "La Comunitat de Béns (C.B.) o l'Empresari Individual (Autònom).",
+        "La Societat Anònima (S.A.).",
+        "La Societat Cooperativa de Treball Associat."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "1.5 Conceptes bàsics econòmics i financers",
+      "pregunta": "Si l'empresa ven mercaderies a un client a crèdit (per pagar el mes vinent), quins dos conceptes es generen en el moment de l'entrega de la mercaderia i l'emissió de la factura?",
+      "opciones": [
+        "Un ingrés econòmic immediat, però encara no s'ha produït el cobrament financer.",
+        "Un cobrament actiu, sense que s'hagi de comptabilitzar cap ingrés de gestió.",
+        "Una despesa anticipada combinada amb un pagament en efectiu de caixa."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "1.5 Conceptes bàsics econòmics i financers",
+      "pregunta": "Com definim conceptualment el terme 'Despesa' des del punt de vista purament comptable?",
+      "opciones": [
+        "La sortida física de diners dels comptes corrents o de la caixa de l'entitat.",
+        "El consum o adquisició de béns i serveis que disminueix el patrimoni net per a l'activitat de l'empresa.",
+        "L'adquisició d'un element d'inmovilitzat que no es desgasta mai."
+      ],
+      "correcta": 1
+    },
+    {
+      "tema": "1.5 Conceptes bàsics econòmics i financers",
+      "pregunta": "Quina de les següents situacions descriu un 'Pagament' sense que suposi una despesa en aquell mateix instant?",
+      "opciones": [
+        "L'abonament en efectiu de la factura d'un proveïdor d'un mes anterior que ja s'havia registrat.",
+        "El consum de subministraments elèctrics del mes que es pagaran en el futur.",
+        "La meritació dels sous dels treballadors al tancament de l'any."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "1.5 Conceptes bàsics econòmics i financers",
+      "pregunta": "Si un banc ens ingressa un préstec sol·licitat directament al nostre compte corrent, quina és la seva naturalesa?",
+      "opciones": [
+        "És un ingrés per a l'empresa que augmenta el resultat del compte de pèrdues i guanys.",
+        "És un cobrament (entrada de tresoreria) que genera paral·lelament una obligació o deute (pasSymbol).",
+        "Es tracta d'una despesa financera recurrent no reintegrable."
+      ],
+      "correcta": 1
+    },
+    {
+      "tema": "1.5 Conceptes bàsics econòmics i financers",
+      "pregunta": "El principi comptable que exigeix registrar els ingressos i les despeses en l'exercici que correspongui segons el consum real, independentment de quan es cobrin o paguin, s'anomena:",
+      "opciones": [
+        "Principi de prudència.",
+        "Principi de devengo o meritació.",
+        "Principi de correlació de costos."
+      ],
+      "correcta": 1
+    },
+    {
+      "tema": "1.1 Documents justificants mercantils",
+      "pregunta": "Quin dels següents documents emet el comprador per sol·licitar formalment mercaderies a un proveïdor?",
+      "opciones": [
+        "La comanda de compra o nota de petició.",
+        "L'albarà de lliurament.",
+        "La factura proforma."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "1.1 Documents justificants mercantils",
+      "pregunta": "Quina validesa legal té una factura proforma dins de la comptabilitat oficial d'una empresa?",
+      "opciones": [
+        "Cap, és només un document informatiu o un pressupost comercial i no es comptabilitza.",
+        "La mateixa que una factura definitiva per liquidar l'IVA trimestral.",
+        "Serveix exclusivament per justificar pagaments fets amb la caixa fix."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "1.1 Documents justificants mercantils",
+      "pregunta": "Qui té l'obligació legal d'emetre i entregar una factura en una operació de compravenda mercantil?",
+      "opciones": [
+        "L'empresari o professional que realitza el lliurament del bé o servei.",
+        "El client o destinatari que adquireix el producte.",
+        "L'empresa de transports que mou la mercaderia d'un magatzem a un altre."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "1.1 Documents justificants mercantils",
+      "pregunta": "Quin document mercantil emet un banc per notificar que ha carregat una comissió de manteniment en un compte corrent?",
+      "opciones": [
+        "La nota de càrrec o nota de dèbit bancària.",
+        "La nota de crèdit comercial.",
+        "Un xec nominatiu."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "1.1 Documents justificants mercantils",
+      "pregunta": "En un xec bancari, quina figura representa la persona o entitat que té l'obligació de pagar l'import indicat?",
+      "opciones": [
+        "El lliurat (l'entitat bancària).",
+        "El lliurador (qui firma el xec).",
+        "El beneficiari (qui cobra el xec)."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "1.1 Documents justificants mercantils",
+      "pregunta": "Què significa que un xec estigui 'barrat' (creuat) amb dues línies paral·leles a l'anvers?",
+      "opciones": [
+        "Que només es pot cobrar mitjançant ingrés en un compte bancari i no en efectiu a la finestreta.",
+        "Que el xec ha estat anul·lat i ja no té cap validesa legal.",
+        "Que l'import s'ha de pagar obligatòriament en una moneda estrangera."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "1.1 Documents justificants mercantils",
+      "pregunta": "Quin document mercantil emet el venedor per notificar al comprador que li ha aplicat un descompte posterior a l'emissió de la factura?",
+      "opciones": [
+        "La nota de crèdit o abonament.",
+        "La nota de dèbit.",
+        "L'albarà de devolució."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "1.1 Documents justificants mercantils",
+      "pregunta": "Quin termini general estableix la normativa de facturació per emetre una factura si el destinatari és un altre empresari o professional?",
+      "opciones": [
+        "Abans del dia 16 del mes següent a aquell en què s'ha realitzat l'operació.",
+        "El mateix dia que es fa el lliurament dels béns de forma immediata i obligatòria.",
+        "Dins dels tres mesos posteriors al tancament de l'any fiscal."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "1.2 Organització i arxivament",
+      "pregunta": "Si un arxiu organitza la documentació classificant les empreses pel seu país, comunitat autònoma i finalment localitat, quin mètode utilitza?",
+      "opciones": [
+        "Mètode geogràfic.",
+        "Mètode per matèries.",
+        "Mètode ideogràfic."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "1.2 Organització i arxivament",
+      "pregunta": "Quin és l'objectiu principal d'utilitzar un sistema de digitalització certificada per a les factures en paper d'una empresa?",
+      "opciones": [
+        "Poder destruir el paper físic ja que la còpia digital té total validesa legal davant d'Hisenda.",
+        "Reduir el pagament d'impostos trimestrals gràcies a l'estalvi d'espai.",
+        "Evitar haver de registrar les factures en el Llibre Diari oficial."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "1.2 Organització i arxivament",
+      "pregunta": "En quin ordre s'han d'organitzar els documents si s'aplica estrictament un criteri d'arxivament cronològic?",
+      "opciones": [
+        "Per la seva data d'emissió o recepció, col·locant els més recents a sobre o a sota segons el sistema.",
+        "Pel nom de la raó social de l'empresa proveïdora de la A a la Z.",
+        "Per l'import total de la factura, de menor a major."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "1.2 Organització i arxivament",
+      "pregunta": "Com s'anomena l'arxiu d'una oficina on es guarda la documentació que ja no es consulta gaire, però que s'ha de mantenir obligatòriament pel termini de prescripció legal?",
+      "opciones": [
+        "Arxiu semi-actiu o central.",
+        "Arxiu actiu o de gestió.",
+        "Arxiu històric definitiu."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "1.2 Organització i arxivament",
+      "pregunta": "A l'hora de destruir documentació comptable un cop ha vençut el termini legal de conservació, quin protocol s'ha de seguir?",
+      "opciones": [
+        "Utilitzar mètodes de destrucció segura que garanteixin la confidencialitat de les dades segons la LOPD.",
+        "Llençar els papers directament al contenidor de reciclatge blau sense triturar.",
+        "Guardar un registre fotogràfic manual de cada pàgina abans de cremar el paper."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "1.3 Llibres comptables obligatoris i auxiliars",
+      "pregunta": "Si un empresari individual (autònom) tributa en estimació directa simplificada, quins registres té l'obligació de portar en lloc dels llibres oficials de societats?",
+      "opciones": [
+        "Els llibres registre de factures emeses, factures rebudes i de béns d'inversió.",
+        "El Llibre Diari i el Llibre Major exclusivament.",
+        "Cap tipus de registre, només ha de guardar els extractes del banc."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "1.3 Llibres comptables obligatoris i auxiliars",
+      "pregunta": "Què significa que el Llibre Diari s'hagi de portar de forma cronològica?",
+      "opciones": [
+        "Que les operacions s'han de registrar dia a dia, en l'ordre estricte en què van succeir.",
+        "Que s'han d'agrupar les factures segons el seu venciment de cobrament de fons.",
+        "Que només es registren els esdeveniments al final de cada trimestre natural."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "1.3 Llibres comptables obligatoris i auxiliars",
+      "pregunta": "Quin llibre comptable NO és obligatori per llei, però és imprescindible per saber el saldo actualitzat de cada compte de l'empresa?",
+      "opciones": [
+        "El Llibre Major.",
+        "El Llibre Diari.",
+        "El Llibre d'Inventaris i Comptes Anuals."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "1.3 Llibres comptables obligatoris i auxiliars",
+      "pregunta": "Quin dels següents documents forma part obligatòria dels Comptes Anuals d'una societat mercantil?",
+      "opciones": [
+        "El Balanç de Situació i el Compte de Pèrdues i Guanys.",
+        "El Llibre de Caixa d'Efectiu.",
+        "La llista de preus de proveïdors homologats."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "1.3 Llibres comptables obligatoris i auxiliars",
+      "pregunta": "Què és un 'assentament comptable' dins del context del Llibre Diari?",
+      "opciones": [
+        "L'anotació regulada que registra formalment una transacció utilitzant el Debe i el Haber.",
+        "L'acta oficial on els socis aproven els comptes del darrer any.",
+        "El document que firma el repartidor quan entrega material d'oficina."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "1.4 L'empresa: classes d'empreses",
+      "pregunta": "Segons la Unió Europea, quins límits de personal té una Microempresa dins de la classificació de les PIMES?",
+      "opciones": [
+        "Té menys de 10 treballadors.",
+        "Té entre 10 i 49 treballadors.",
+        "Té exactament 50 treballadors en nòmina activa."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "1.4 L'empresa: classes d'empreses",
+      "pregunta": "En quina de les següents formes jurídiques el capital social mínim de constitució està totalment dividit en accions i és de 60.000 euros?",
+      "opciones": [
+        "Societat Anònima (S.A.).",
+        "Societat de Responsabilitat Limitada (S.R.L.).",
+        "Societat Cooperativa."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "1.4 L'empresa: classes d'empreses",
+      "pregunta": "Quin és el nombre mínim de socis fundadors que exigeix la llei per poder constituir una Societat Cooperativa de primer grau?",
+      "opciones": [
+        "Un mínim de 3 socis.",
+        "Només es necessita 1 soci (societat unipersonal).",
+        "Un mínim de 5 socis capitalistes."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "1.4 L'empresa: classes d'empreses",
+      "pregunta": "Quina diferència principal hi ha entre una empresa pública i una empresa mixta?",
+      "opciones": [
+        "La pública té el capital 100% de l'Estat; la mixta combina capital públic i privat.",
+        "La pública només opera a nivell local i la mixta a nivell internacional.",
+        "La pública no pot tenir treballadors contractats per compte d'altri."
+      ],
+      "correcta": 0
+    },
+
+    {
+    "tema": "1.4 L'empresa: classes d'empreses",
+    "pregunta": "A quin sector econòmic pertany una empresa que es dedica exclusivament a l'assessorament fiscal i comptable d'altres entitats?",
+    "opciones": [
+      "Sector terciari o de serveis.",
+      "Sector secundari o industrial.",
+      "Sector primari o extractiu."
+    ],
+    "correcta": 0
+  },
+  {
+    "tema": "1.4 L'empresa: classes d'empreses",
+    "pregunta": "Com es defineix la responsabilitat d'un empresari individual (autònom) respecte als deutes generats pel seu negocio?",
+    "opciones": [
+      "Responsabilitat il·limitada: respon amb tot el seu patrimoni present i futur.",
+      "Responsabilitat limitada al capital inicial invertit en obrir el local.",
+      "No té cap responsabilitat legal, ja que els deutes prescriuen al cap de 30 dies."
+    ],
+    "correcta": 0
+  },
+  {
+    "tema": "1.5 Conceptes bàsics econòmics i financers",
+    "pregunta": "Quan es produeix exactament el concepte d' 'Ingrés' en una operació de venda de mercaderies?",
+    "opciones": [
+      "Quan es lliura el producte i neix el dret de cobrament, independentment de quan es rebi el diners.",
+      "En el moment precís en què el client ens fa una transferència al banc.",
+      "Quan passem la informació de facturació al tancament de l'any."
+    ],
+    "correcta": 0
+  },
+  {
+    "tema": "1.5 Conceptes bàsics econòmics i financers",
+    "pregunta": "Si un client ens paga en efectiu una factura que li havíem emès fa dos mesos, quina repercussió té a nivell d'ingrés i cobrament?",
+    "opciones": [
+      "Es produeix un cobrament (entrada de tresoreria), però l'ingrés econòmic ja es va registrar fa dos mesos.",
+      "Es produeix un ingrés i un cobrament de forma simultània en aquest moment.",
+      "Es genera una despesa financera associada a l'historial del client."
+    ],
+    "correcta": 0
+  },
+  {
+    "tema": "1.5 Conceptes bàsics econòmics i financers",
+    "pregunta": "El pagament de la quota mensual del lloguer de l'oficina mitjançant domiciliació bancària representa directament un:",
+    "opciones": [
+      "Pagament financer i una despesa corrent al... mateix temps.",
+      "Ingrés diferit per a l'activitat d'explotació.",
+      "Un increment del valor del patrimoni net de la societat."
+    ],
+    "correcta": 0
+  },
+  {
+    "tema": "1.5 Conceptes bàsics econòmics i financers",
+    "pregunta": "Com es reflecteix comptablement la compra d'una furgoneta de repartiment que es pagarà d'aquí a 3 anys?",
+    "opciones": [
+      "Es registra una inversió en l'actiu no corrent i neix un deute (passiu) a llarg termini, sense despesa immediata.",
+      "Es comptabilitza directament com una despesa extraordinària del mes corrent.",
+      "Representa un ingrés patrimonial diferit per als socis fundadors."
+    ],
+    "correcta": 0
+  },
+  {
+    "tema": "1.5 Conceptes bàsics econòmics i financers",
+    "pregunta": "Si comprem material d'oficina i el paguem al comptat utilitzant els diners de la caixa de l'empresa, estem davant de:",
+    "opciones": [
+      "Una despesa i un pagament simultanis.",
+      "Un ingrés de tresoreria amb cobrament posterior.",
+      "Una operació de finançament aliè a llarg termini."
+    ],
+    "correcta": 0
+  },
+  {
+    "tema": "1.5 Conceptes bàsics econòmics i financers",
+    "pregunta": "Quin d'aquests conceptes defineix millor la diferència entre el corrent econòmic i el corrent financer d'una empresa?",
+    "opciones": [
+      "L'econòmic fa referència a ingressos/despeses (vendes/consums) i el financer a cobraments/pagaments (entrades/sortides de diners).",
+      "L'econòmic només inclou els impostos i el financer les accions a la borsa.",
+      "L'econòmic registra les compres de béns grans i el financer les despeses petites de caixa."
+    ],
+    "correcta": 0
+  }
+
+
+  ]
+}
