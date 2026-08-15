@@ -15,7 +15,7 @@ async function iniciarJuego(categoria) {
     categoriaActual = categoria;
     
     // Genera el nombre del archivo de forma automática (Ej: 'MF981_1.json')
-    const archivoALeer = `${categoria}.json`;
+    const archivoALeer = `./${categoria}.json`;
 
     try {
         const respuesta = await fetch(archivoALeer);
