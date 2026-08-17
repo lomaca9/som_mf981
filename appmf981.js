@@ -158,7 +158,7 @@ function volverAlInicio() {
 
     // Si la pantalla de test NO está oculta, significa que el usuario está jugando un tema
     if (!pantallaTestOculta) {
-        const confirmar = confirm("Segur que vols sortir i pràcticar altre tema?");
+        const confirmar = confirm("Segur que vols sortir ?");
         if (!confirmar) {
             return; // Si el usuario cancela, no hace nada y continúa el test
         }
