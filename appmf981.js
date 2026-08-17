@@ -73,6 +73,9 @@ function mostrarPregunta() {
     const porcentajeProgreso = (indiceActual / preguntasPartida.length) * 100;
     document.getElementById('linea-progreso').style.width = `${porcentajeProgreso}%`;
 
+// 1. NUEVO: Inyectar el título del tema (Asegúrate de que en tu JSON la propiedad se llama "tema")
+    document.getElementById('tema-pregunta').innerText = datosPregunta.tema || "General";
+    
     // Inyectar el texto del enunciado
     document.getElementById('texto-pregunta').innerText = datosPregunta.pregunta;
 
@@ -149,8 +152,22 @@ function finalizarEvaluacion() {
     document.getElementById('nota-num').innerText = nota.toFixed(2);
 }
 
-// Redirige al alumno a la pantalla de selección de bloques
+// Redirige al alumno a la pantalla de selección de bloques con confirmación si está en partida
 function volverAlInicio() {
+    const pantallaTestOculta = document.getElementById('pantalla-test').classList.contains('oculto');
+
+    // Si la pantalla de test NO está oculta, significa que el usuario está jugando un tema
+    if (!pantallaTestOculta) {
+        const confirmar = confirm("Segur que vols sortir i pràcticar altre tema?");
+        if (!confirmar) {
+            return; // Si el usuario cancela, no hace nada y continúa el test
+        }
+    }
+
+    // Ocultar pantallas de juego y resultados
+    document.getElementById('pantalla-test').classList.add('oculto');
     document.getElementById('pantalla-resultados').classList.add('oculto');
+    
+    // Mostrar la pantalla de inicio
     document.getElementById('pantalla-inicio').classList.remove('oculto');
 }
