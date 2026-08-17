@@ -54,14 +54,20 @@
             </div>
 
             <div class="tarjeta-pregunta">
-                <p id="texto-pregunta" class="texto-pregunta">Aquí irá la pregunta...</p>
+
+				<!-- 1. NUEVO: Título del tema (recogido del JSON) -->
+       			 <h3 id="tema-pregunta" class="tema-pregunta" style="color: #666; font-size: 0.9em; margin-bottom: 5px; text-transform: uppercase;">Tema</h3>
+				
+				<p id="texto-pregunta" class="texto-pregunta">Aquí irá la pregunta...</p>
                 <div id="contenedor-opciones" class="contenedor-opciones">
                     <!-- Los botones de opciones se generarán dinámicamente -->
                 </div>
             </div>
 
-            <div class="controles-navegacion">
-                <button id="btn-siguiente" class="btn-accion oculto" onclick="siguientePregunta()">Següent Pregunta</button>
+            <div class="controles-navegacion" style="display: flex; gap: 10px; justify-content: center; margin-top: 15px;">
+       			 <!-- 2. NUEVO: Botón para volver al menú principal -->
+        			<button id="btn-volver-menu" class="btn-accion" onclick="volverAlInicio()" style="background-color: #6c757d; color: white;">Tornar al menú</button>
+                	<button id="btn-siguiente" class="btn-accion oculto" onclick="siguientePregunta()">Següent Pregunta</button>
             </div>
         </section>
 
