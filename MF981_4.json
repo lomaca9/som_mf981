@@ -1,0 +1,304 @@
+{
+  "MF981_4": [
+    {
+      "tema": "Tema 4: Comptabilitat de l'IVA en els llibres auxiliars",
+      "pregunta": "Què és l'IVA?",
+      "opciones": [
+        "Un impost indirecte que grava, entre altres operacions, el consum de béns i serveis",
+        "Un impost exclusivament sobre els beneficis empresarials",
+        "Una taxa municipal"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 4: Comptabilitat de l'IVA en els llibres auxiliars",
+      "pregunta": "Què significa que una operació està subjecta a l'IVA?",
+      "opciones": [
+        "Que es troba dins de l'àmbit d'aplicació de l'impost",
+        "Que sempre està exempta",
+        "Que mai genera obligacions fiscals"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 4: Comptabilitat de l'IVA en els llibres auxiliars",
+      "pregunta": "Què significa que una operació està exempta d'IVA?",
+      "opciones": [
+        "Que, tot i estar dins de l'àmbit de l'impost, la normativa estableix que no es repercuteix IVA en aquella operació",
+        "Que l'operació és necessàriament no subjecta",
+        "Que l'empresa no ha de conservar cap document"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 4: Comptabilitat de l'IVA en els llibres auxiliars",
+      "pregunta": "Quina diferència bàsica hi ha entre una operació no subjecta i una exempta?",
+      "opciones": [
+        "La no subjecta queda fora de l'àmbit de l'impost, mentre que l'exempta hi està subjecta però la normativa n'exclou la repercussió",
+        "No existeix cap diferència",
+        "La no subjecta sempre porta IVA i l'exempta també"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 4: Comptabilitat de l'IVA en els llibres auxiliars",
+      "pregunta": "Quin és el tipus general d'IVA vigent a Espanya?",
+      "opciones": [
+        "4%",
+        "10%",
+        "21%"
+      ],
+      "correcta": "2"
+    },
+    {
+      "tema": "Tema 4: Comptabilitat de l'IVA en els llibres auxiliars",
+      "pregunta": "Quin és un tipus reduït d'IVA previst per la normativa general?",
+      "opciones": [
+        "10%",
+        "18%",
+        "25%"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 4: Comptabilitat de l'IVA en els llibres auxiliars",
+      "pregunta": "Quin és el tipus superreduït d'IVA generalment previst per a determinats béns?",
+      "opciones": [
+        "2%",
+        "4%",
+        "8%"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 4: Comptabilitat de l'IVA en els llibres auxiliars",
+      "pregunta": "Què és l'IVA suportat per una empresa?",
+      "opciones": [
+        "L'IVA que l'empresa paga o suporta en les seves adquisicions i despeses subjectes",
+        "L'IVA que l'empresa cobra sempre dels seus clients",
+        "L'IVA que l'empresa paga als seus treballadors"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 4: Comptabilitat de l'IVA en els llibres auxiliars",
+      "pregunta": "Què és l'IVA repercutit?",
+      "opciones": [
+        "L'IVA que l'empresa suporta en comprar",
+        "L'IVA que l'empresa repercuteix als seus clients en les operacions subjectes",
+        "L'IVA que mai apareix en una factura"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 4: Comptabilitat de l'IVA en els llibres auxiliars",
+      "pregunta": "Quina relació existeix habitualment entre IVA suportat deduïble i IVA repercutit en una liquidació?",
+      "opciones": [
+        "La quota a ingressar es determina, amb caràcter general, per la diferència entre l'IVA repercutit i l'IVA suportat deduïble",
+        "Només es té en compte l'IVA suportat",
+        "Només es té en compte el preu sense IVA"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 4: Comptabilitat de l'IVA en els llibres auxiliars",
+      "pregunta": "Què passa amb l'IVA suportat no deduïble?",
+      "opciones": [
+        "No es pot deduir com a IVA suportat en la liquidació i, segons el cas, forma part del cost o despesa corresponent",
+        "Sempre es recupera íntegrament",
+        "Es converteix automàticament en IVA repercutit"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 4: Comptabilitat de l'IVA en els llibres auxiliars",
+      "pregunta": "Una empresa compra mercaderies per 1.000 euros més IVA del 21%. Quin és l'IVA suportat?",
+      "opciones": [
+        "21 euros",
+        "210 euros",
+        "1.210 euros"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 4: Comptabilitat de l'IVA en els llibres auxiliars",
+      "pregunta": "Una empresa ven mercaderies per 2.000 euros més IVA del 21%. Quin és l'IVA repercutit?",
+      "opciones": [
+        "420 euros",
+        "200 euros",
+        "2.420 euros"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 4: Comptabilitat de l'IVA en els llibres auxiliars",
+      "pregunta": "Si en un període una empresa té 4.000 euros d'IVA repercutit i 2.500 euros d'IVA suportat deduïble, quina és la diferència a ingressar abans d'altres ajustos?",
+      "opciones": [
+        "1.500 euros",
+        "6.500 euros",
+        "2.500 euros"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 4: Comptabilitat de l'IVA en els llibres auxiliars",
+      "pregunta": "Quin document és habitualment la base documental per registrar l'IVA d'una compra empresarial?",
+      "opciones": [
+        "La factura rebuda",
+        "Una nota personal sense dades fiscals",
+        "Un pressupost no acceptat"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 4: Comptabilitat de l'IVA en els llibres auxiliars",
+      "pregunta": "Quin llibre auxiliar recull habitualment les factures rebudes amb IVA suportat?",
+      "opciones": [
+        "Llibre registre de factures rebudes",
+        "Llibre de nòmines únicament",
+        "Llibre d'actes"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 4: Comptabilitat de l'IVA en els llibres auxiliars",
+      "pregunta": "Quin llibre auxiliar recull habitualment les factures emeses per l'empresa?",
+      "opciones": [
+        "Llibre registre de factures expedides",
+        "Llibre de béns de consum personal",
+        "Llibre de caixa únicament"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 4: Comptabilitat de l'IVA en els llibres auxiliars",
+      "pregunta": "Què és una operació intracomunitària a efectes d'aquest tema?",
+      "opciones": [
+        "Una operació realitzada entre operadors de diferents Estats membres de la Unió Europea que compleix els requisits fiscals corresponents",
+        "Qualsevol compra realitzada dins de la mateixa ciutat",
+        "Una operació realitzada exclusivament amb un país fora de la Unió Europea"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 4: Comptabilitat de l'IVA en els llibres auxiliars",
+      "pregunta": "Quina dada és especialment rellevant per identificar una factura intracomunitària?",
+      "opciones": [
+        "El número d'identificació fiscal a efectes d'IVA dels operadors, quan sigui exigible",
+        "El color de la factura",
+        "El número de telèfon personal del comptable"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 4: Comptabilitat de l'IVA en els llibres auxiliars",
+      "pregunta": "Què és la inversió del subjecte passiu en el context d'una operació intracomunitària quan resulta aplicable?",
+      "opciones": [
+        "El destinatari assumeix l'obligació de declarar l'IVA corresponent en els termes previstos per la normativa",
+        "El proveïdor queda exempt de qualsevol obligació fiscal",
+        "L'IVA desapareix de la comptabilitat"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 4: Comptabilitat de l'IVA en els llibres auxiliars",
+      "pregunta": "En una adquisició intracomunitària subjecta a l'IVA espanyol, què pot haver de fer el comprador?",
+      "opciones": [
+        "Autorepercutir l'IVA i, si compleix els requisits, registrar simultàniament l'IVA suportat deduïble",
+        "No registrar mai l'operació",
+        "Registrar únicament l'IVA repercutit del proveïdor estranger"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 4: Comptabilitat de l'IVA en els llibres auxiliars",
+      "pregunta": "Quina és la finalitat principal de la liquidació de l'IVA?",
+      "opciones": [
+        "Determinar la diferència entre les quotes d'IVA repercutides i les quotes deduïbles suportades que corresponguin al període",
+        "Calcular el patrimoni net",
+        "Determinar l'amortització dels immobilitzats"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 4: Comptabilitat de l'IVA en els llibres auxiliars",
+      "pregunta": "Quin model s'utilitza habitualment per a l'autoliquidació de l'IVA?",
+      "opciones": [
+        "Model 303",
+        "Model 111",
+        "Model 190"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 4: Comptabilitat de l'IVA en els llibres auxiliars",
+      "pregunta": "Amb caràcter general, quin és el termini trimestral del model 303 per als tres primers trimestres?",
+      "opciones": [
+        "Durant els primers 20 dies naturals dels mesos d'abril, juliol i octubre",
+        "Durant tot el mes de desembre",
+        "Només el 31 de març"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 4: Comptabilitat de l'IVA en els llibres auxiliars",
+      "pregunta": "Amb caràcter general, quan es presenta el model 303 corresponent al quart trimestre per als subjectes amb liquidació trimestral?",
+      "opciones": [
+        "Durant els primers 30 dies naturals de gener",
+        "Durant els primers 20 dies de març",
+        "Durant el mes de juny"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 4: Comptabilitat de l'IVA en els llibres auxiliars",
+      "pregunta": "Una empresa té en un trimestre 8.000 euros d'IVA repercutit i 5.500 euros d'IVA suportat deduïble. Quin resultat bàsic de liquidació obté?",
+      "opciones": [
+        "2.500 euros a ingressar",
+        "13.500 euros a ingressar",
+        "5.500 euros a ingressar"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 4: Comptabilitat de l'IVA en els llibres auxiliars",
+      "pregunta": "Una empresa té 3.000 euros d'IVA repercutit i 4.000 euros d'IVA suportat deduïble, sense altres ajustos. Quin resultat bàsic presenta?",
+      "opciones": [
+        "1.000 euros a ingressar",
+        "1.000 euros a favor de l'empresa, segons el règim i les regles aplicables",
+        "7.000 euros a ingressar"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 4: Comptabilitat de l'IVA en els llibres auxiliars",
+      "pregunta": "Quina informació d'una factura és especialment rellevant per al registre de l'IVA?",
+      "opciones": [
+        "Base imposable, tipus d'IVA i quota d'IVA, juntament amb les dades fiscals exigibles",
+        "Només el logotip del proveïdor",
+        "Només la forma de pagament"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 4: Comptabilitat de l'IVA en els llibres auxiliars",
+      "pregunta": "En preparar els registres d'IVA, què hauria de fer el responsable comptable abans de registrar una factura?",
+      "opciones": [
+        "Comprovar la naturalesa de l'operació, les dades fiscals, la base, el tipus d'IVA i la quota corresponent",
+        "Registrar automàticament qualsevol import indicat pel proveïdor",
+        "Eliminar la factura després de llegir-la"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 4: Comptabilitat de l'IVA en els llibres auxiliars",
+      "pregunta": "Quina actuació s'ajusta millor a la RP1 i als criteris d'avaluació de la UF0515 en relació amb l'IVA?",
+      "opciones": [
+        "Interpretar la documentació justificativa, identificar l'operació i l'IVA corresponent, classificar-la i registrar-la correctament mantenint la seguretat i confidencialitat de la informació",
+        "Registrar només el total de les factures sense analitzar-ne l'IVA",
+        "Classificar totes les factures com a IVA suportat deduïble"
+      ],
+      "correcta": "0"
+    }
+  ]
+}

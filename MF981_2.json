@@ -1,0 +1,1010 @@
+{
+  "MF981_2": [
+    {
+      "tema": "El patrimoni de l'empresa – Concepte comptable del patrimoni",
+      "pregunta": "Com es defineix el concepte comptable de patrimoni net d'una empresa segons el marc normatiu del BOE?",
+      "opciones": [
+        "La suma total de tots els béns i drets de cobrament de l'empresa sense descomptar els deutes.",
+        "La part residual dels actius de l'empresa, una vegada deduïts tots els seus passius.",
+        "El conjunt de deutes i obligacions contretes amb tercers pendents de pagament."
+      ],
+      "correcta": 1
+    },
+    {
+      "tema": "El patrimoni de l'empresa – Concepte comptable del patrimoni",
+      "pregunta": "Dins del concepte comptable de patrimoni, quins elements representen l'estructura financera de l'empresa?",
+      "opciones": [
+        "Els béns de consum i els drets de cobrament a curt termini.",
+        "Les fonts de finançament pròpies i alienes que financen l'actiu.",
+        "Únicament els fons propis aportats pels socis al capital social."
+      ],
+      "correcta": 1
+    },
+    {
+      "tema": "El patrimoni de l'empresa – Concepte comptable del patrimoni",
+      "pregunta": "Quina de les següents opcions descriu correctament l'Equació Fonamental del Patrimoni?",
+      "opciones": [
+        "Actiu = Passiu + Patrimoni Net",
+        "Actiu + Passiu = Patrimoni Net",
+        "Actiu = Passiu - Patrimoni Net"
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "El patrimoni de l'empresa – Concepte comptable del patrimoni",
+      "pregunta": "Des del punt de vista comptable i de la capacitat de gestió, l'Actiu d'una empresa representa:",
+      "opciones": [
+        "L'origen dels fons utilitzats per a l'adquisició de recursos.",
+        "L'estructura econòmica o el conjunt de béns, drets i altres recursos controlats.",
+        "El benefici net obtingut al final de l'exercici econòmic anual."
+      ],
+      "correcta": 1
+    },
+    {
+      "tema": "El patrimoni de l'empresa – Concepte comptable del patrimoni",
+      "pregunta": "Quin d'aquests elements patrimonials es classifica com una obligació de pagament per a l'empresa?",
+      "opciones": [
+        "Els préstecs bancaris rebuts a retornar en cinc anys.",
+        "Les factures pendents de cobrament de clients.",
+        "Les aplicacions informàtiques de gestió comptable."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "El patrimoni de l'empresa – Inventari i masses patrimonials",
+      "pregunta": "Què és una massa patrimonial en el context del mòdul de registres comptables?",
+      "opciones": [
+        "El llistat detallat de tots els proveïdors de l'empresa ordenats alfabèticament.",
+        "L'agrupació d'elements patrimonials amb una mateixa significació econòmica o financera.",
+        "El pes total de les mercaderies emmagatzemades valorades a preu de cost."
+      ],
+      "correcta": 1
+    },
+    {
+      "tema": "El patrimoni de l'empresa – Inventari i masses patrimonials",
+      "pregunta": "Quin criteri general s'utilitza per ordenar els elements que componen la massa patrimonial de l'Actiu?",
+      "opciones": [
+        "De menor a major exigibilitat dels elements de deute.",
+        "De menor a major liquiditat, és a dir, la facilitat per convertir-se en diners.",
+        "De major a menor disponibilitat del capital aportat pels socis fundadors."
+      ],
+      "correcta": 1
+    },
+    {
+      "tema": "El patrimoni de l'empresa – Inventari i masses patrimonials",
+      "pregunta": "Com es defineix l'estructura del Passiu segons el criteri d'exigibilitat fixat al BOE?",
+      "opciones": [
+        "S'ordena segons el termini de venciment dels deutes, de menor a major exigibilitat.",
+        "S'ordena segons la capacitat de generar fluxos de caixa positius immediats.",
+        "S'ordena de major a menor vinculació amb el procés productiu principal."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "El patrimoni de l'empresa – Inventari i masses patrimonials",
+      "pregunta": "En la realització d'un inventari, quina fase consisteix en la valoració en diners de cada element comptat?",
+      "opciones": [
+        "Fase de verificació física o recompte visual.",
+        "Fase de valoració o quantificació econòmica.",
+        "Fase de codificació interna dels productes."
+      ],
+      "correcta": 1
+    },
+    {
+      "tema": "El patrimoni de l'empresa – Inventari i masses patrimonials",
+      "pregunta": "Un inventari detallat inicial té com a objectiu principal:",
+      "opciones": [
+        "Determinar els impostos sobre societats a pagar el mes següent.",
+        "Comprovar de forma exacta i detallada la situació patrimonial real a una data concreta.",
+        "Registrar diàriament les vendes al detall realitzades en l'establiment."
+      ],
+      "correcta": 1
+    },
+    {
+      "tema": "El patrimoni de l'empresa – Classificació de les masses patrimonials",
+      "pregunta": "Quins elements formen part de la massa patrimonial de l'Actiu No Corrent?",
+      "opciones": [
+        "Elements vinculats a l'activitat de l'empresa a llarg termini, com maquinària i edificis.",
+        "Diners en caixa, saldos en comptes corrents i existències al magatzem.",
+        "Deutes comercials amb venciment inferior a dotze mesos."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "El patrimoni de l'empresa – Classificació de les masses patrimonials",
+      "pregunta": "Dins de l'Actiu Corrent, la sub-massa de 'Realitzable' fa referència a:",
+      "opciones": [
+        "Els béns i productes destinats a la venda en el curs ordinari del negoci.",
+        "Els drets de cobrament a curt termini, com els saldos de clients i deutors.",
+        "Els fons disponibles immediatament en els comptes bancaris de l'entitat."
+      ],
+      "correcta": 1
+    },
+    {
+      "tema": "El patrimoni de l'empresa – Classificació de les masses patrimonials",
+      "pregunta": "On s'han de classificar les existències de matèries primeres segons el PGC i el mòdul MF0981?",
+      "opciones": [
+        "Dins de l'Actiu No Corrent com a inversions immobiliàries.",
+        "Dins de l'Actiu Corrent, a la sub-massa d'Existències.",
+        "Dins del Passiu Corrent com una provisió a curt termini."
+      ],
+      "correcta": 1
+    },
+    {
+      "tema": "El patrimoni de l'empresa – Classificació de les masses patrimonials",
+      "pregunta": "El Passiu No Corrent inclou aquelles obligacions el venciment de les quals opera:",
+      "opciones": [
+        "En un termini superior a un any (llarg termini).",
+        "En un termini inferior o igual a dotze mesos (curt termini).",
+        "De forma immediata a requeriment de qualsevol creditor o proveïdor."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "El patrimoni de l'empresa – Classificació de les masses patrimonials",
+      "pregunta": "Les reserves generades pels beneficis no distribuïts es classifiquen en la massa de:",
+      "opciones": [
+        "Passiu Corrent.",
+        "Patrimoni Net (o fons propis).",
+        "Actiu No Corrent."
+      ],
+      "correcta": 1
+    },
+    {
+      "tema": "El patrimoni de l'empresa – L'equilibri patrimonial",
+      "pregunta": "Què representa la situació de 'Màxima Estabilitat Financera' o equilibri total?",
+      "opciones": [
+        "Quan l'Actiu està totalment finançat amb recursos propis i el Passiu és zero.",
+        "Quan el Passiu Corrent és igual a l'Actiu Corrent exactament.",
+        "Quan l'empresa té més deutes a curt termini que actius líquids."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "El patrimoni de l'empresa – L'equilibri patrimonial",
+      "pregunta": "Com es defineix conceptualment el Fons de Manobra (o Capital Circulant)?",
+      "opciones": [
+        "La part de l'Actiu Corrent que està finançada amb fons de Passiu No Corrent i Patrimoni Net.",
+        "El total de deutes que l'empresa té pendents de pagament a llarg termini.",
+        "La diferència exacta entre l'Actiu No Corrent i el Patrimoni Net."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "El patrimoni de l'empresa – L'equilibri patrimonial",
+      "pregunta": "Si una empresa es troba en situació de 'Suspenció de Pagaments' o desequilibri a curt termini, generalment és perquè:",
+      "opciones": [
+        "L'Actiu Corrent és inferior al Passiu Corrent (Fons de manobra negatiu).",
+        "El Patrimoni Net és superior a la suma total de l'Actiu No Corrent.",
+        "Tots els actius estan finançats exclusivament amb capital social."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "El patrimoni de l'empresa – L'equilibri patrimonial",
+      "pregunta": "La situació de 'Fallida' o desequilibri financer total es produeix quan:",
+      "opciones": [
+        "El Passiu Exigible total és superior a l'Actiu total (Patrimoni Net negatiu).",
+        "Les existències superen els drets de cobrament de clients de l'any.",
+        "El fons de manobra és positiu i molt elevat durant tres exercicis."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "El patrimoni de l'empresa – L'equilibri patrimonial",
+      "pregunta": "Per garantir l'equilibri financer normal, una empresa ha de procurar que:",
+      "opciones": [
+        "Els actius corrents siguin suficients per cobrir els deutes a curt termini.",
+        "L'actiu no corrent es reconverteixi en liquiditat de forma mensual.",
+        "El passiu no corrent sigui sempre igual a zero en tot moment."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "El patrimoni de l'empresa – Estructura del balanç de situació",
+      "pregunta": "El Balanç de Situació es defineix en el marc de la comptabilitat com un estat comptable que:",
+      "opciones": [
+        "Mostra de forma dinàmica els ingressos i despeses acumulats de l'any.",
+        "Reflecteix de forma sintètica i agregada la situació patrimonial a una data donada.",
+        "Detalla exclusivament el moviment diari de les caixes registradores."
+      ],
+      "correcta": 1
+    },
+    {
+      "tema": "El patrimoni de l'empresa – Estructura del balanç de situació",
+      "pregunta": "En quina gran secció del Balanç de Situació s'ubiquen els 'Deutors comercials i altres comptes a cobrar'?",
+      "opciones": [
+        "A l'Actiu Corrent.",
+        "Al Passiu No Corrent.",
+        "Al Patrimoni Net."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "El patrimoni de l'empresa – Estructura del balanç de situació",
+      "pregunta": "Dins l'estructura del Balanç de Situació oficial, on es troben les 'Inversions Financeres a Llarg Termini'?",
+      "opciones": [
+        "A l'Actiu No Corrent.",
+        "A l'Actiu Corrent (sub-massa d'Efectiu).",
+        "Al Passiu Corrent com a deute bancari."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "El patrimoni de l'empresa – Estructura del balanç de situació",
+      "pregunta": "Quin d'aquests elements forma part del Passiu Corrent d'un Balanç de Situació?",
+      "opciones": [
+        "Proveïdors, efectes comercials a pagar a 60 dies.",
+        "Préstecs rebuts d'entitats de crèdit a retornar en 10 anys.",
+        "Maquinària per al procés de fabricació industrial."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "El patrimoni de l'empresa – Estructura del balanç de situació",
+      "pregunta": "El capital social aportat pels titulars o socis de l'empresa figura en l'estructura del balanç a:",
+      "opciones": [
+        "L'Actiu No Corrent, sub-massa d'immobilitzat.",
+        "El Patrimoni Net, dins dels fons propis.",
+        "El Passiu Corrent, com a deute a curt termini."
+      ],
+      "correcta": 1
+    },
+    {
+      "tema": "El patrimoni de l'empresa – Diferències entre inventari i balanç de situació",
+      "pregunta": "Quina és la principal diferència respecte al nivell de detall entre un Inventari i un Balanç de Situació?",
+      "opciones": [
+        "L'inventari és molt detallat i desglossat; el balanç presenta la informació de forma agregada o sintètica.",
+        "El balanç detalla cada unitat física i l'inventari només mostra grans xifres.",
+        "No hi ha cap diferència, són dos noms exactament per al mateix document."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "El patrimoni de l'empresa – Diferències entre inventari i balanç de situació",
+      "pregunta": "Respecte a les unitats de mesura utilitzades en ambdós documents, quina afirmació és correcta?",
+      "opciones": [
+        "El balanç de situació utilitza unitats físiques (kg, unitats); l'inventari només euros.",
+        "L'inventari conté l'expressió en unitats físiques i monetàries; el balanç només utilitza unitats monetàries.",
+        "Ambdós documents prohibeixen l'ús d'unitats monetàries segons el BOE."
+      ],
+      "correcta": 1
+    },
+    {
+      "tema": "El patrimoni de l'empresa – Diferències entre inventari i balanç de situació",
+      "pregunta": "L'inventari és una eina que té caràcter extrac comptable o de recompte, mentre que el Balanç de Situació és:",
+      "opciones": [
+        "Un document merament opcional que es pot fer cada cinc anys.",
+        "Un estat financer formal que forma part de les Comptes Anuals de l'empresa.",
+        "Un llibre de registre exclusiu per a l'ús de la duana."
+      ],
+      "correcta": 1
+    },
+    {
+      "tema": "El patrimoni de l'empresa – Diferències entre inventari i balanç de situació",
+      "pregunta": "Com es recull la signatura o validació en l'estructura d'aquests documents?",
+      "opciones": [
+        "L'inventari sol anar firmat detalladament pel responsable del recompte; el balanç és firmat pels administradors.",
+        "El balanç de situació no requereix cap signatura segons la normativa del BOE.",
+        "Cap dels dos documents es pot firmar per evitar duplicitats legals."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "El patrimoni de l'empresa – Diferències entre inventari i balanç de situació",
+      "pregunta": "Des del punt de vista de la seva elaboració, quin document serveix generalment de base per verificar la realitat del Balanç?",
+      "opciones": [
+        "La factura proforma de vendes a l'estranger.",
+        "L'inventari físic real valorat.",
+        "El llibre de registre de visites de clients."
+      ],
+      "correcta": 1
+    }
+{
+      "tema": "2. El patrimoni de l'empresa",
+      "pregunta": "Com es defineix l'estructura econòmica de l'empresa des del punt de vista comptable?",
+      "opciones": [
+        "El conjunt de fons propis i deutes que financen l'activitat.",
+        "El conjunt de béns i drets de cobrament que posseeix l'organització.",
+        "El benefici net obtingut al final de l'exercici econòmic."
+      ],
+      "correcta": 1
+    },
+    {
+      "tema": "2. El patrimoni de l'empresa",
+      "pregunta": "En l'equació fonamental del patrimoni (Actiu = Passiu + Patrimoni Net), què representa exactament el Passiu?",
+      "opciones": [
+        "Les obligacions de pagament actuals sorgides de successos passats.",
+        "Les aportacions de capital realitzades pels socis de l'empresa.",
+        "El valor total dels productes que l'empresa té en el magatzem."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "2. El patrimoni de l'empresa",
+      "pregunta": "Quin dels següents elements s'ha de classificar dins de l'estructura financera d'un balanç?",
+      "opciones": [
+        "Les aplicacions informàtiques i llicències de programari.",
+        "Els deutes a curt termini amb proveïdors de mercaderies.",
+        "Els diners en efectiu dipositats a la caixa de l'empresa."
+      ],
+      "correcta": 1
+    },
+    {
+      "tema": "2. El patrimoni de l'empresa",
+      "pregunta": "Si una empresa disposa d'uns elements de transport valorats en 30.000 € i un deute amb el concessionari de 12.000 €, quina part correspon al seu Patrimoni Net?",
+      "opciones": [
+        "42.000 €",
+        "12.000 €",
+        "18.000 €"
+      ],
+      "correcta": 2
+    },
+    {
+      "tema": "2. El patrimoni de l'empresa",
+      "pregunta": "Quin criteri s'utilitza principalment per ordenar els elements que formen l'Actiu d'una empresa?",
+      "opciones": [
+        "El criteri de menor a major exigibilitat dels fons.",
+        "El criteri de menor a major disponibilitat o liquiditat.",
+        "El criteri cronològic de la data de compra del bé."
+      ],
+      "correcta": 1
+    },
+    {
+      "tema": "2. El patrimoni de l'empresa",
+      "pregunta": "A quina massa patrimonial pertany el compte de 'Clients' que recull els drets de cobrament per vendes a crèdit?",
+      "omisiones": [],
+      "opciones": [
+        "A l'Actiu Corrent.",
+        "A l'Actiu No Corrent.",
+        "Al Passiu Corrent."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "2. El patrimoni de l'empresa",
+      "pregunta": "Quin d'aquests elements patrimonials té un grau de liquiditat més baix (és menys líquid)?",
+      "opciones": [
+        "Els diners dipositats en un compte corrent bancari.",
+        "Les mercaderies emmagatzemades llistes per a la venda.",
+        "Un local comercial on es troben les oficines centrals."
+      ],
+      "correcta": 2
+    },
+    {
+      "tema": "2. El patrimoni de l'empresa",
+      "pregunta": "Com s'ordena el Passiu i el Patrimoni Net en un balanç de situació segons la normativa comptable estàndard?",
+      "opciones": [
+        "De menor a major exigibilitat (primer fons propis, després deutes a llarg i curt termini).",
+        "De major a menor liquiditat (primer els deutes immediats i al final el capital).",
+        "Per ordre alfabètic de les masses que componen l'estructura."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "2. El patrimoni de l'empresa",
+      "pregunta": "Quina és la característica fonamental d'una massa patrimonial d'Actiu No Corrent?",
+      "opciones": [
+        "Està formada per deutes que vencen en un termini superior a un any.",
+        "Està vinculada a l'empresa de forma permanent per a la seva activitat (més d'un any).",
+        "Són fons que es convertiran en diners líquids en el cicle d'explotació corrent."
+      ],
+      "correcta": 1
+    },
+    {
+      "tema": "2. El patrimoni de l'empresa",
+      "pregunta": "El compte 'Proveïdors d'immobilitzat a curt termini' s'ha de situar a:",
+      "opciones": [
+        "El Passiu No Corrent.",
+        "L'Actiu Corrent.",
+        "El Passiu Corrent."
+      ],
+      "correcta": 2
+    },
+    {
+      "tema": "2. El patrimoni de l'empresa",
+      "pregunta": "Què s'entén comptablement per 'situació de màxima estabilitat financera' o equilibri total?",
+      "opciones": [
+        "Quan tot l'actiu està finançat exclusivament amb recursos propis (sense deutes).",
+        "Quan els deutes a curt termini són exactament iguals a les existències.",
+        "Quan el passiu corrent supera àmpliament tots els actius de l'empresa."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "2. El patrimoni de l'empresa",
+      "pregunta": "Quina situació es produeix si comprovem que el valor total de l'Actiu és inferior al valor total del Passiu Exigible?",
+      "opciones": [
+        "Un equilibri financer normal i saludable.",
+        "Un desequilibri on el Patrimoni Net és negatiu (descapitalització).",
+        "Una situació de màxima estabilitat financera."
+      ],
+      "correcta": 1
+    },
+    {
+      "tema": "2. El patrimoni de l'empresa",
+      "pregunta": "En un equilibri patrimonial corrent i saludable d'una empresa comercial, quina relació és la més lògica?",
+      "opciones": [
+        "L'Actiu Corrent ha de ser major que el Passiu Corrent per poder afrontar els pagaments.",
+        "L'Actiu No Corrent ha de finançar-se exclusivament amb deutes a curt termini.",
+        "El Passiu Exigible ha de ser zero durant tots els mesos de l'any."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "2. El patrimoni de l'empresa",
+      "pregunta": "Quina és una de les principals diferències operatives entre l'inventari i el balanç de situació?",
+      "opciones": [
+        "El balanç és un llistat detallat d'unitats físiques i l'inventari només mostra grans totals.",
+        "L'inventari requereix una verificació o recompte físic detallat, mentre que el balanç s'obté de dades agregades dels registres comptables.",
+        "L'inventari s'elabora cada dia i el balanç de situació només es fa una vegada cada cinc anys."
+      ],
+      "correcta": 1
+    },
+    {
+      "tema": "2. El patrimoni de l'empresa",
+      "pregunta": "Quina part de l'estructura formal de l'inventari conté la certificació final signada on es llista el valor del Net Patrimonial?",
+      "opciones": [
+        "La capçalera del document.",
+        "El cos de l'inventari.",
+        "El peu de l'inventari."
+      ],
+      "correcta": 2
+    },
+    {
+      "tema": "2. El patrimoni de l'empresa",
+      "pregunta": "Com es presenten els elements patrimonials en el cos d'un Balanç de Situació?",
+      "opciones": [
+        "Agrupats de forma homogènia en masses financeres segons la seva funció econòmica.",
+        "Desglossats un a un detallant les seves característiques físiques, marques i números de sèrie.",
+        "Ordenats aleatòriament segons el valor econòmic que tenen en el mercat."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "2. El patrimoni de l'empresa",
+      "pregunta": "Quin d'aquests comptes forma part del grup de 'Reserves' dins del Patrimoni Net?",
+      "opciones": [
+        "Reserva legal obtinguda dels beneficis no distribuïts.",
+        "Préstecs bancaris rebuts a llarg termini.",
+        "Fiances constituïdes a curt termini."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "2. El patrimoni de l'empresa",
+      "pregunta": "Si un element com el mobiliari d'oficina s'ha adquirit per a l'activitat de l'empresa, a quina submassa de l'Actiu No Corrent pertany?",
+      "opciones": [
+        "Immobilitzat Intangible.",
+        "Immobilitzat Material.",
+        "Inversions Financeres a llarg termini."
+      ],
+      "correcta": 1
+    },
+    {
+      "tema": "2. El patrimoni de l'empresa",
+      "pregunta": "El concepte comptable de 'Patrimoni' inclou:",
+      "opciones": [
+        "Només els diners en efectiu i els saldos de les llibretes bancàries.",
+        "Únicament les propietats immobiliàries que estan a nom de l'empresa.",
+        "El conjunt de béns, drets de cobrament i obligacions de pagament d'una entitat."
+      ],
+      "correcta": 2
+    },
+    {
+      "tema": "2. El patrimoni de l'empresa",
+      "pregunta": "Quan diem que una empresa realitza la valoració econòmica d'una massa patrimonial, què està fent exactament?",
+      "opciones": [
+        "Assignar una unitat de mesura monetària homogènia a cadascun dels elements que la componen.",
+        "Contar físicament quantes caixes o unitats queden en el magatzem d'explotació.",
+        "Publicar a internet la llista de proveïdors amb els deutes actuals."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "2. El patrimoni de l'empresa",
+      "pregunta": "Com es defineix l'estructura econòmica de l'empresa des del punt de vista comptable?",
+      "opciones": [
+        "El conjunt de fons propis i deutes que financen l'activitat.",
+        "El conjunt de béns i drets de cobrament que posseeix l'organització.",
+        "El benefici net obtingut al final de l'exercici econòmic."
+      ],
+      "correcta": 1
+    },
+    {
+      "tema": "2. El patrimoni de l'empresa",
+      "pregunta": "En l'equació fonamental del patrimoni (Actiu = Passiu + Patrimoni Net), què representa exactament el Passiu?",
+      "opciones": [
+        "Les obligacions de pagament actuals sorgides de successos passats.",
+        "Les aportacions de capital realitzades pels socis de l'empresa.",
+        "El valor total dels productes que l'empresa té en el magatzem."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "2. El patrimoni de l'empresa",
+      "pregunta": "Quin dels següents elements s'ha de classificar dins de l'estructura financera d'un balanç?",
+      "opciones": [
+        "Les aplicacions informàtiques i llicències de programari.",
+        "Els deutes a curt termini amb proveïdors de mercaderies.",
+        "Els diners en efectiu dipositats a la caixa de l'empresa."
+      ],
+      "correcta": 1
+    },
+    {
+      "tema": "2. El patrimoni de l'empresa",
+      "pregunta": "Si una empresa disposa d'uns elements de transport valorats en 30.000 € i un deute amb el concessionari de 12.000 €, quina part correspon al seu Patrimoni Net?",
+      "opciones": [
+        "42.000 €",
+        "12.000 €",
+        "18.000 €"
+      ],
+      "correcta": 2
+    },
+    {
+      "tema": "2. El patrimoni de l'empresa",
+      "pregunta": "Quin criteri s'utilitza principalment per ordenar els elements que formen l'Actiu d'una empresa?",
+      "opciones": [
+        "El criteri de menor a major exigibilitat dels fons.",
+        "El criteri de menor a major disponibilitat o liquiditat.",
+        "El criteri cronològic de la data de compra del bé."
+      ],
+      "correcta": 1
+    },
+    {
+      "tema": "2. El patrimoni de l'empresa",
+      "pregunta": "A quina massa patrimonial pertany el compte de 'Clients' que recull els drets de cobrament per vendes a crèdit?",
+      "omisiones": [],
+      "opciones": [
+        "A l'Actiu Corrent.",
+        "A l'Actiu No Corrent.",
+        "Al Passiu Corrent."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "2. El patrimoni de l'empresa",
+      "pregunta": "Quin d'aquests elements patrimonials té un grau de liquiditat més baix (és menys líquid)?",
+      "opciones": [
+        "Els diners dipositats en un compte corrent bancari.",
+        "Les mercaderies emmagatzemades llistes per a la venda.",
+        "Un local comercial on es troben les oficines centrals."
+      ],
+      "correcta": 2
+    },
+    {
+      "tema": "2. El patrimoni de l'empresa",
+      "pregunta": "Com s'ordena el Passiu i el Patrimoni Net en un balanç de situació segons la normativa comptable estàndard?",
+      "opciones": [
+        "De menor a major exigibilitat (primer fons propis, després deutes a llarg i curt termini).",
+        "De major a menor liquiditat (primer els deutes immediats i al final el capital).",
+        "Per ordre alfabètic de les masses que componen l'estructura."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "2. El patrimoni de l'empresa",
+      "pregunta": "Quina és la característica fonamental d'una massa patrimonial d'Actiu No Corrent?",
+      "opciones": [
+        "Està formada per deutes que vencen en un termini superior a un any.",
+        "Està vinculada a l'empresa de forma permanent per a la seva activitat (més d'un any).",
+        "Són fons que es convertiran en diners líquids en el cicle d'explotació corrent."
+      ],
+      "correcta": 1
+    },
+    {
+      "tema": "2. El patrimoni de l'empresa",
+      "pregunta": "El compte 'Proveïdors d'immobilitzat a curt termini' s'ha de situar a:",
+      "opciones": [
+        "El Passiu No Corrent.",
+        "L'Actiu Corrent.",
+        "El Passiu Corrent."
+      ],
+      "correcta": 2
+    },
+    {
+      "tema": "2. El patrimoni de l'empresa",
+      "pregunta": "Què s'entén comptablement per 'situació de màxima estabilitat financera' o equilibri total?",
+      "opciones": [
+        "Quan tot l'actiu està finançat exclusivament amb recursos propis (sense deutes).",
+        "Quan els deutes a curt termini són exactament iguals a les existències.",
+        "Quan el passiu corrent supera àmpliament tots els actius de l'empresa."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "2. El patrimoni de l'empresa",
+      "pregunta": "Quina situació es produeix si comprovem que el valor total de l'Actiu és inferior al valor total del Passiu Exigible?",
+      "opciones": [
+        "Un equilibri financer normal i saludable.",
+        "Un desequilibri on el Patrimoni Net és negatiu (descapitalització).",
+        "Una situació de màxima estabilitat financera."
+      ],
+      "correcta": 1
+    },
+    {
+      "tema": "2. El patrimoni de l'empresa",
+      "pregunta": "En un equilibri patrimonial corrent i saludable d'una empresa comercial, quina relació és la més lògica?",
+      "opciones": [
+        "L'Actiu Corrent ha de ser major que el Passiu Corrent per poder afrontar els pagaments.",
+        "L'Actiu No Corrent ha de finançar-se exclusivament amb deutes a curt termini.",
+        "El Passiu Exigible ha de ser zero durant tots els mesos de l'any."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "2. El patrimoni de l'empresa",
+      "pregunta": "Quina és una de les principals diferències operatives entre l'inventari i el balanç de situació?",
+      "opciones": [
+        "El balanç és un llistat detallat d'unitats físiques i l'inventari només mostra grans totals.",
+        "L'inventari requereix una verificació o recompte físic detallat, mentre que el balanç s'obté de dades agregades dels registres comptables.",
+        "L'inventari s'elabora cada dia i el balanç de situació només es fa una vegada cada cinc anys."
+      ],
+      "correcta": 1
+    },
+    {
+      "tema": "2. El patrimoni de l'empresa",
+      "pregunta": "Quina part de l'estructura formal de l'inventari conté la certificació final signada on es llista el valor del Net Patrimonial?",
+      "opciones": [
+        "La capçalera del document.",
+        "El cos de l'inventari.",
+        "El peu de l'inventari."
+      ],
+      "correcta": 2
+    },
+    {
+      "tema": "2. El patrimoni de l'empresa",
+      "pregunta": "Com es presenten els elements patrimonials en el cos d'un Balanç de Situació?",
+      "opciones": [
+        "Agrupats de forma homogènia en masses financeres segons la seva funció econòmica.",
+        "Desglossats un a un detallant les seves característiques físiques, marques i números de sèrie.",
+        "Ordenats aleatòriament segons el valor econòmic que tenen en el mercat."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "2. El patrimoni de l'empresa",
+      "pregunta": "Quin d'aquests comptes forma part del grup de 'Reserves' dins del Patrimoni Net?",
+      "opciones": [
+        "Reserva legal obtinguda dels beneficis no distribuïts.",
+        "Préstecs bancaris rebuts a llarg termini.",
+        "Fiances constituïdes a curt termini."
+      ],
+      "correcta": 0
+    },
+    {
+      "tema": "2. El patrimoni de l'empresa",
+      "pregunta": "Si un element com el mobiliari d'oficina s'ha adquirit per a l'activitat de l'empresa, a quina submassa de l'Actiu No Corrent pertany?",
+      "opciones": [
+        "Immobilitzat Intangible.",
+        "Immobilitzat Material.",
+        "Inversions Financeres a llarg termini."
+      ],
+      "correcta": 1
+    },
+    {
+      "tema": "2. El patrimoni de l'empresa",
+      "pregunta": "El concepte comptable de 'Patrimoni' inclou:",
+      "opciones": [
+        "Només els diners en efectiu i els saldos de les llibretes bancàries.",
+        "Únicament les propietats immobiliàries que estan a nom de l'empresa.",
+        "El conjunt de béns, drets de cobrament i obligacions de pagament d'una entitat."
+      ],
+      "correcta": 2
+    },
+    {
+      "tema": "2. El patrimoni de l'empresa",
+      "pregunta": "Quan diem que una empresa realitza la valoració econòmica d'una massa patrimonial, què està fent exactament?",
+      "opciones": [
+        "Assignar una unitat de mesura monetària homogènia a cadascun dels elements que la componen.",
+        "Contar físicament quantes caixes o unitats queden en el magatzem d'explotació.",
+        "Publicar a internet la llista de proveïdors amb els deutes actuals."
+      ],
+      "correcta": 0
+    },
+  
+    {
+      "tema": "Tema 2: El patrimoni de l'empresa",
+      "pregunta": "Què s'entén per patrimoni empresarial des del punt de vista comptable?",
+      "opciones": [
+        "El conjunt de vendes realitzades durant l'exercici",
+        "El conjunt de béns, drets, obligacions i altres elements econòmics de l'empresa",
+        "Únicament els diners disponibles a caixa i bancs"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 2: El patrimoni de l'empresa",
+      "pregunta": "Quin dels elements següents forma part del patrimoni d'una empresa?",
+      "opciones": [
+        "Un dret de cobrament davant d'un client",
+        "Només els ingressos de l'exercici",
+        "Únicament els beneficis distribuïts"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: El patrimoni de l'empresa",
+      "pregunta": "Quina és la relació fonamental entre actiu, passiu i patrimoni net?",
+      "opciones": [
+        "Actiu = Passiu - Patrimoni net",
+        "Actiu = Passiu + Patrimoni net",
+        "Patrimoni net = Actiu + Passiu"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 2: El patrimoni de l'empresa",
+      "pregunta": "Què representa l'actiu d'una empresa?",
+      "opciones": [
+        "Els recursos econòmics controlats per l'empresa",
+        "Exclusivament els deutes amb proveïdors",
+        "Només les aportacions dels socis"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: El patrimoni de l'empresa",
+      "pregunta": "Què representa el passiu?",
+      "opciones": [
+        "Els béns propietat de l'empresa",
+        "Les obligacions actuals de l'empresa",
+        "Els ingressos obtinguts durant l'exercici"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 2: El patrimoni de l'empresa",
+      "pregunta": "Què representa el patrimoni net?",
+      "opciones": [
+        "La part residual dels actius una vegada deduïts els passius",
+        "El total dels deutes de l'empresa",
+        "El total dels ingressos menys les vendes"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: El patrimoni de l'empresa",
+      "pregunta": "Quina d'aquestes és una massa patrimonial?",
+      "opciones": [
+        "Actiu",
+        "Factura emesa",
+        "Compra"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: El patrimoni de l'empresa",
+      "pregunta": "Com es classifica habitualment l'actiu en el balanç?",
+      "opciones": [
+        "Actiu corrent i actiu no corrent",
+        "Actiu ingressos i actiu despeses",
+        "Actiu financer i actiu fiscal únicament"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: El patrimoni de l'empresa",
+      "pregunta": "Quin element pertany normalment a l'actiu no corrent?",
+      "opciones": [
+        "Caixa",
+        "Maquinària destinada a l'activitat empresarial",
+        "Clients"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 2: El patrimoni de l'empresa",
+      "pregunta": "Quin element pertany habitualment a l'actiu corrent?",
+      "opciones": [
+        "Un edifici utilitzat durant diversos anys",
+        "Maquinària industrial",
+        "Clients per operacions comercials"
+      ],
+      "correcta": "2"
+    },
+    {
+      "tema": "Tema 2: El patrimoni de l'empresa",
+      "pregunta": "Quin d'aquests elements és un passiu?",
+      "opciones": [
+        "Deutes amb proveïdors",
+        "Mercaderies en magatzem",
+        "Saldo de caixa"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: El patrimoni de l'empresa",
+      "pregunta": "Quin element forma part del patrimoni net?",
+      "opciones": [
+        "Capital aportat pels socis",
+        "Deute amb una entitat financera",
+        "Deute amb proveïdors"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: El patrimoni de l'empresa",
+      "pregunta": "Què és un inventari comptable?",
+      "opciones": [
+        "Una relació detallada dels elements que formen el patrimoni en un moment determinat",
+        "Un registre exclusiu de les vendes",
+        "Un document que només recull els deutes"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: El patrimoni de l'empresa",
+      "pregunta": "Quina característica diferencia principalment l'inventari del balanç de situació?",
+      "opciones": [
+        "L'inventari presenta una relació detallada dels elements patrimonials, mentre que el balanç els presenta de forma agrupada i ordenada",
+        "El balanç només inclou ingressos",
+        "L'inventari només inclou els elements de passiu"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: El patrimoni de l'empresa",
+      "pregunta": "Quina finalitat té principalment el balanç de situació?",
+      "opciones": [
+        "Mostrar la situació patrimonial de l'empresa en una data determinada",
+        "Mostrar només les vendes de l'exercici",
+        "Determinar exclusivament l'IVA a pagar"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: El patrimoni de l'empresa",
+      "pregunta": "Quin principi es compleix quan el total de l'actiu coincideix amb el total del passiu més el patrimoni net?",
+      "opciones": [
+        "Equilibri patrimonial",
+        "Periodificació",
+        "Amortització"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: El patrimoni de l'empresa",
+      "pregunta": "Una empresa té un actiu de 150.000 euros i un passiu de 90.000 euros. Quin és el seu patrimoni net?",
+      "opciones": [
+        "60.000 euros",
+        "240.000 euros",
+        "90.000 euros"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: El patrimoni de l'empresa",
+      "pregunta": "Si el patrimoni net és de 80.000 euros i el passiu de 120.000 euros, quin és l'actiu?",
+      "opciones": [
+        "40.000 euros",
+        "200.000 euros",
+        "120.000 euros"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 2: El patrimoni de l'empresa",
+      "pregunta": "Quina de les següents situacions representa un dret de l'empresa?",
+      "opciones": [
+        "Un préstec pendent de pagament",
+        "Una factura pendent de cobrament d'un client",
+        "Una factura pendent de pagament a un proveïdor"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 2: El patrimoni de l'empresa",
+      "pregunta": "Quina de les següents situacions representa una obligació?",
+      "opciones": [
+        "Un saldo bancari favorable",
+        "Un deute amb una entitat financera",
+        "Una factura pendent de cobrament"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 2: El patrimoni de l'empresa",
+      "pregunta": "On es presenta principalment el patrimoni net dins del balanç de situació?",
+      "opciones": [
+        "Dins de l'estructura de patrimoni net i passiu",
+        "Dins de l'actiu corrent",
+        "Fora del balanç"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: El patrimoni de l'empresa",
+      "pregunta": "Quin dels següents elements és un bé?",
+      "opciones": [
+        "Una màquina propietat de l'empresa",
+        "Un deute amb un proveïdor",
+        "Una obligació tributària pendent"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: El patrimoni de l'empresa",
+      "pregunta": "Quin dels següents elements és un dret de cobrament?",
+      "opciones": [
+        "Clients",
+        "Proveïdors",
+        "Préstecs rebuts"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: El patrimoni de l'empresa",
+      "pregunta": "Una empresa disposa de mercaderies, diners en banc, un edifici i un deute amb un banc. Quins d'aquests elements formen part de l'actiu?",
+      "opciones": [
+        "Només el deute bancari",
+        "Mercaderies, diners en banc i edifici",
+        "Només l'edifici"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 2: El patrimoni de l'empresa",
+      "pregunta": "Quina informació permet identificar millor les masses patrimonials?",
+      "opciones": [
+        "La naturalesa econòmica i financera dels elements patrimonials",
+        "El color dels documents comptables",
+        "El número de factures emeses únicament"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: El patrimoni de l'empresa",
+      "pregunta": "Si una empresa compra una màquina i la paga immediatament per banc, què passa globalment amb el patrimoni?",
+      "opciones": [
+        "Augmenta l'actiu total",
+        "Es produeix un canvi en la composició de l'actiu, però no necessàriament en el seu total",
+        "Augmenta automàticament el passiu"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 2: El patrimoni de l'empresa",
+      "pregunta": "Si una empresa paga un deute amb el banc mitjançant el seu compte corrent, quina variació patrimonial es produeix?",
+      "opciones": [
+        "Disminueixen simultàniament un actiu i un passiu",
+        "Augmenten simultàniament un actiu i un passiu",
+        "Augmenta el patrimoni net"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: El patrimoni de l'empresa",
+      "pregunta": "Quina afirmació sobre el balanç de situació és correcta?",
+      "opciones": [
+        "Sempre ha de respectar l'equació patrimonial",
+        "Només inclou les despeses",
+        "No inclou el patrimoni net"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: El patrimoni de l'empresa",
+      "pregunta": "Quina relació entre inventari i balanç és correcta?",
+      "opciones": [
+        "L'inventari pot servir de base per a l'elaboració del balanç",
+        "El balanç substitueix sempre qualsevol inventari",
+        "No tenen cap relació amb el patrimoni empresarial"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 2: El patrimoni de l'empresa",
+      "pregunta": "Quina actuació és més adequada per preparar informació patrimonial per al registre comptable?",
+      "opciones": [
+        "Identificar, classificar i valorar adequadament els elements patrimonials a partir de la documentació justificativa",
+        "Registrar qualsevol import sense comprovar-ne l'origen",
+        "Classificar tots els elements com a despeses"
+      ],
+      "correcta": "0"
+    }
+  ]
+}
+
+
+

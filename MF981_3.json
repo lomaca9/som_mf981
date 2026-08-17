@@ -1,0 +1,304 @@
+{
+  "MF981_3": [
+    {
+      "tema": "Tema 3: Registres comptables de l'activitat empresarial",
+      "pregunta": "Què és un compte comptable?",
+      "opciones": [
+        "Un instrument de representació i mesura dels elements patrimonials, ingressos i despeses",
+        "Un document fiscal que només serveix per calcular l'IVA",
+        "Un contracte mercantil"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 3: Registres comptables de l'activitat empresarial",
+      "pregunta": "Què representa el càrrec d'un compte?",
+      "opciones": [
+        "L'anotació realitzada al costat esquerre del compte",
+        "L'anotació realitzada sempre al costat dret",
+        "El tancament de l'exercici"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 3: Registres comptables de l'activitat empresarial",
+      "pregunta": "Què representa l'abonament d'un compte?",
+      "opciones": [
+        "L'anotació realitzada al costat esquerre",
+        "L'anotació realitzada al costat dret",
+        "Una factura pendent"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 3: Registres comptables de l'activitat empresarial",
+      "pregunta": "En termes generals, com funcionen els comptes d'actiu?",
+      "opciones": [
+        "Augmenten pel càrrec i disminueixen per l'abonament",
+        "Augmenten per l'abonament i disminueixen pel càrrec",
+        "No poden tenir saldo"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 3: Registres comptables de l'activitat empresarial",
+      "pregunta": "En termes generals, com funcionen els comptes de passiu?",
+      "opciones": [
+        "Augmenten pel càrrec",
+        "Augmenten per l'abonament i disminueixen pel càrrec",
+        "Sempre tenen saldo deutor"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 3: Registres comptables de l'activitat empresarial",
+      "pregunta": "Com funcionen habitualment els comptes de despeses?",
+      "opciones": [
+        "S'incrementen pel càrrec",
+        "S'incrementen per l'abonament",
+        "No es registren en comptabilitat"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 3: Registres comptables de l'activitat empresarial",
+      "pregunta": "Com funcionen habitualment els comptes d'ingressos?",
+      "opciones": [
+        "S'incrementen pel càrrec",
+        "S'incrementen per l'abonament",
+        "Només es registren en el balanç"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 3: Registres comptables de l'activitat empresarial",
+      "pregunta": "En què consisteix el mètode de partida doble?",
+      "opciones": [
+        "Cada fet comptable afecta almenys dos comptes mantenint la igualtat entre càrrecs i abonaments",
+        "Cada operació només afecta un compte",
+        "Només es registren les operacions de cobrament"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 3: Registres comptables de l'activitat empresarial",
+      "pregunta": "Una empresa compra mercaderies a crèdit. Quin compte representa habitualment el deute amb el proveïdor?",
+      "opciones": [
+        "Proveïdors",
+        "Clients",
+        "Caixa"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 3: Registres comptables de l'activitat empresarial",
+      "pregunta": "En una compra de mercaderies a crèdit, quin compte es carrega habitualment per l'import de la compra abans de l'IVA?",
+      "opciones": [
+        "Compres",
+        "Vendes",
+        "Proveïdors"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 3: Registres comptables de l'activitat empresarial",
+      "pregunta": "Quina és una finalitat del balanç de comprovació de sumes i saldos?",
+      "opciones": [
+        "Comprovar la correspondència entre les sumes i els saldos dels comptes",
+        "Calcular exclusivament l'IVA",
+        "Substituir els comptes anuals"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 3: Registres comptables de l'activitat empresarial",
+      "pregunta": "Quina informació pot contenir un balanç de comprovació?",
+      "opciones": [
+        "Sumes del deure i haver i saldos deutors i creditors dels comptes",
+        "Només les factures emeses",
+        "Només els saldos bancaris"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 3: Registres comptables de l'activitat empresarial",
+      "pregunta": "Quina afirmació sobre el balanç de comprovació és correcta?",
+      "opciones": [
+        "La suma dels càrrecs ha de coincidir amb la suma dels abonaments",
+        "La suma dels càrrecs sempre és superior als abonaments",
+        "No té relació amb la partida doble"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 3: Registres comptables de l'activitat empresarial",
+      "pregunta": "Quin estat comptable mostra els ingressos i les despeses per determinar el resultat de l'exercici?",
+      "opciones": [
+        "Compte de pèrdues i guanys",
+        "Inventari",
+        "Balanç de comprovació únicament"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 3: Registres comptables de l'activitat empresarial",
+      "pregunta": "Quan els ingressos són superiors a les despeses, quin resultat s'obté?",
+      "opciones": [
+        "Pèrdua",
+        "Benefici",
+        "Passiu"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 3: Registres comptables de l'activitat empresarial",
+      "pregunta": "Quin grup del PGC correspon a compres i despeses?",
+      "opciones": [
+        "Grup 4",
+        "Grup 6",
+        "Grup 7"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 3: Registres comptables de l'activitat empresarial",
+      "pregunta": "Quin grup del PGC correspon a vendes i ingressos?",
+      "opciones": [
+        "Grup 5",
+        "Grup 6",
+        "Grup 7"
+      ],
+      "correcta": "2"
+    },
+    {
+      "tema": "Tema 3: Registres comptables de l'activitat empresarial",
+      "pregunta": "A quin grup del PGC pertanyen habitualment els comptes d'existències?",
+      "opciones": [
+        "Grup 3",
+        "Grup 6",
+        "Grup 7"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 3: Registres comptables de l'activitat empresarial",
+      "pregunta": "A quin grup del PGC pertanyen habitualment els comptes de clients i proveïdors?",
+      "opciones": [
+        "Grup 2",
+        "Grup 4",
+        "Grup 7"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 3: Registres comptables de l'activitat empresarial",
+      "pregunta": "A quin grup del PGC pertanyen habitualment els comptes financers?",
+      "opciones": [
+        "Grup 1",
+        "Grup 5",
+        "Grup 7"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 3: Registres comptables de l'activitat empresarial",
+      "pregunta": "Què és un subcompte?",
+      "opciones": [
+        "Un nivell de major detall dins d'una estructura de comptes",
+        "Un compte que només pot registrar ingressos",
+        "Un document mercantil"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 3: Registres comptables de l'activitat empresarial",
+      "pregunta": "Quina finalitat té l'amortització?",
+      "opciones": [
+        "Reflectir comptablement la depreciació sistemàtica d'un actiu amortitzable durant la seva vida útil",
+        "Registrar únicament els cobraments",
+        "Eliminar qualsevol passiu"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 3: Registres comptables de l'activitat empresarial",
+      "pregunta": "En què consisteix l'amortització lineal?",
+      "opciones": [
+        "En distribuir de manera uniforme la base amortitzable durant la vida útil",
+        "En amortitzar sempre tot l'actiu el primer dia",
+        "En no registrar mai la depreciació"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 3: Registres comptables de l'activitat empresarial",
+      "pregunta": "Quina diferència bàsica hi ha entre amortització i provisió?",
+      "opciones": [
+        "L'amortització reflecteix una depreciació sistemàtica d'actius, mentre que la provisió cobreix determinats riscos o obligacions estimades segons les normes comptables",
+        "Són exactament el mateix concepte",
+        "La provisió només s'aplica a les vendes"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 3: Registres comptables de l'activitat empresarial",
+      "pregunta": "Què és la periodificació comptable?",
+      "opciones": [
+        "Assignar els ingressos i les despeses al període al qual corresponen econòmicament",
+        "Eliminar les factures antigues",
+        "Registrar només els moviments bancaris"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 3: Registres comptables de l'activitat empresarial",
+      "pregunta": "Quin és un ordre lògic simplificat del cicle comptable?",
+      "opciones": [
+        "Obertura, registre d'operacions, comprovació, regularització, tancament i elaboració dels estats corresponents",
+        "Tancament, obertura i després eliminació de tots els comptes",
+        "Només registre de factures"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 3: Registres comptables de l'activitat empresarial",
+      "pregunta": "Quina finalitat té el tancament de la comptabilitat?",
+      "opciones": [
+        "Tancar els comptes corresponents a l'exercici i determinar-ne el resultat segons el procediment comptable aplicable",
+        "Eliminar tota la documentació comptable",
+        "Convertir totes les despeses en actius"
+      ],
+      "correcta": "0"
+    },
+    {
+      "tema": "Tema 3: Registres comptables de l'activitat empresarial",
+      "pregunta": "Quina actuació respecta millor la responsabilitat i confidencialitat en els registres comptables?",
+      "opciones": [
+        "Compartir les dades comptables amb qualsevol persona interessada",
+        "Protegir la informació comptable i facilitar-ne l'accés només a persones autoritzades",
+        "Eliminar els documents justificatius després de registrar-los"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 3: Registres comptables de l'activitat empresarial",
+      "pregunta": "Quina actuació pot constituir una mala pràctica en els registres comptables?",
+      "opciones": [
+        "Registrar operacions basant-se en documents justificatius",
+        "Alterar deliberadament informació comptable per falsejar la situació econòmica",
+        "Comprovar els saldos abans del tancament"
+      ],
+      "correcta": "1"
+    },
+    {
+      "tema": "Tema 3: Registres comptables de l'activitat empresarial",
+      "pregunta": "D'acord amb la RP1, abans de registrar una transacció econòmica què és especialment important fer?",
+      "opciones": [
+        "Preparar, classificar i protegir la informació suport segons els sistemes de codificació establerts",
+        "Registrar-la sense comprovar la documentació",
+        "Destruir el document justificatiu"
+      ],
+      "correcta": "0"
+    }
+  ]
+}
